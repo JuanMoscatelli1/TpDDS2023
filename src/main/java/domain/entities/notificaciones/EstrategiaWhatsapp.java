@@ -16,7 +16,7 @@ public class EstrategiaWhatsapp extends EstrategiaNotificar {
     String rutaProperties = "src/resources/tokenwpp.properties";
 
     // Find your Account Sid and Token at twilio.com/console
-    public static final String ACCOUNT_SID = "AC7ab011e93d3f166ac58005ec281f0999";
+    public static final String ACCOUNT_SID = "";
     public static final String AUTH_TOKEN = ""; //TODO: Como se usan los .properties
 
     public EstrategiaWhatsapp() {
